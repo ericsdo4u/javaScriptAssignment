@@ -1,6 +1,6 @@
 
 
-const airconditioner = require('./Airconditional.js');
+const airconditioner = require('./AirConditional.js');
 describe('myACTest', () => {
   let ac;
 
